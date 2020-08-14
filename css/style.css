@@ -1,0 +1,38 @@
+html {
+  background-color: white;
+  font-size: 12px;
+  font-family: 'Hannari','Noto Serif JP', serif;
+}
+
+* {
+  margin: 0em;
+}
+
+.width {
+  width: 500px;
+  margin-top: 100px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.width h1 {
+  font-size: 25px;
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.width .date {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: end;
+      -ms-flex-pack: end;
+          justify-content: flex-end;
+  margin-bottom: 10px;
+}
+
+.width .text {
+  padding-bottom: 30px;
+  line-height: 30px;
+}
+/*# sourceMappingURL=style.css.map */
