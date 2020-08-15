@@ -84,6 +84,15 @@ html {
   margin-bottom: 15px;
 }
 
+.photo-content .last-message {
+  display: block;
+  max-width: 1000px;
+  font-size: 1rem;
+  line-height: 30px;
+  text-align: center;
+  margin: 100px 5% 0;
+}
+
 .photo-content .wrapper {
   display: -ms-grid;
   display: grid;
